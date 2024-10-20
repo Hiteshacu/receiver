@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Receiver App</string>
+    <string name="image_desc">Image Description</string>
+</resources>
